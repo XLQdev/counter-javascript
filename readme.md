@@ -32,7 +32,6 @@ This is a simple counter application built using **HTML, CSS, and JavaScript**. 
 1. Clone the repository:
    ```bash
    git clone https://github.com/XLQdev/counter-javascript
-   ```bash
 2. Open `index.html` in a browser.
 
 ## How It Works
